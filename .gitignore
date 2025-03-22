@@ -1,0 +1,21 @@
+# React Native specific
+/node_modules/
+/ios/
+/android/
+*.log
+*.swp
+*.swo
+*.swn
+*.lock
+*.DS_Store
+*.env
+
+# Build artifacts
+/build/
+/dist/
+/coverage/
+
+# IDE specific
+.vscode/
+.idea/
+
