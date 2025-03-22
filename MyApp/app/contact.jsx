@@ -4,7 +4,7 @@ import React from 'react'
 const explore = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>explore</Text>
+      <Text style={styles.text}>Contact</Text>
     </View>
   )
 }
@@ -13,12 +13,12 @@ export default explore
 
 
 const styles = StyleSheet.create({
-  container:{
-    flex:1,
-    flexDirection:'column',
+  container: {
+    flex: 1,
+    flexDirection: 'column',
   },
-  text:{
-    color:'white',
-    textAlign:'center'
+  text: {
+    color: 'white',
+    textAlign: 'center'
   }
 })
